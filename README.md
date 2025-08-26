@@ -6,7 +6,7 @@ Proyek ini berisi dataset penjualan retail dan script SQL untuk melakukan data c
 - `retail_sales_dirty_final.csv` → Dataset Awal sebelum dibersihkan.
 - `Kode_retail_sales_dirty_staging_cleaned.sql` → Script SQL untuk pembersihan data.
 - `retail_sales_staging_cleaned.csv` → Dataset yang sudah dibersihkan.
-- `Visualisasi retail_sales_dirty_staging.pbids`  → Visualisasi 
+- `Visualisasi retail_sales_dirty_staging.pbix`  → Visualisasi 
 ## Tujuan
 - Menyediakan dataset bersih, rapi, konsisten.
 - Menghapus duplikat & error input.
