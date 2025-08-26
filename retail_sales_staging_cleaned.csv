@@ -1,0 +1,197 @@
+order_id;order_date;region;product_category;product_name;quantity;unit_price;total_sales;customer_segment
+1001;23/02/2024;Jawa Barat;Fashion;Unknown;1;1650000.00;1650000.00;Individual
+1002;26/11/2024;Sulawesi Selatan;Elektronik;Kamera Canon;2;5615000.00;11230000.00;Small Business
+1028;16/08/2024;DKI Jakarta;Makanan & Minuman;Coklat Belgia;5;5600000.00;28000000.00;Corporate
+1029;13/03/2024;Bali;Fashion;Tas Kulit Prada;3;3865000.00;11595000.00;Small Business
+1030;10/08/2024;Bali;Peralatan Rumah;Mesin Cuci Sharp;4;1065000.00;4260000.00;Individual
+1031;19/12/2024;Jawa Barat;Fashion;Kemeja Formal ZZZ;1;1650000.00;1650000.00;Corporate
+1032;19/01/2024;Jawa Barat;Fashion;Gaun Pesta Glam;4;9630000.00;38520000.00;Individual
+1033;28/05/2024;Jawa Timur;Makanan & Minuman;Teh Hijau Jepang;4;5090000.00;20360000.00;Individual
+1034;18/09/2024;DKI Jakarta;Makanan & Minuman;Keripik Singkong;3;855000.00;2565000.00;Corporate
+1036;07/03/2024;Bali;Makanan & Minuman;Keripik Singkong;3;8910000.00;26730000.00;Corporate
+1037;24/11/2024;DKI Jakarta;Peralatan Rumah;Kipas Angin Cosmos;1;6750000.00;6750000.00;Corporate
+1038;03/02/2024;Sumatera Utara;Peralatan Rumah;Blender Philips;3;8875000.00;26625000.00;Individual
+1040;20/11/2024;Jawa Timur;Peralatan Rumah;Kipas Angin Cosmos;1;5205000.00;5205000.00;Corporate
+1042;18/02/2024;Kalimantan Timur;Makanan & Minuman;Teh Hijau Jepang;4;305000.00;1220000.00;Small Business
+1043;31/08/2024;Jawa Timur;Fashion;Tas Kulit Prada;1;3950000.00;3950000.00;Individual
+1044;26/01/2024;Sulawesi Selatan;Makanan & Minuman;Kopi Arabika DEF;4;5765000.00;23060000.00;Small Business
+1045;24/05/2024;Sumatera Utara;Peralatan Rumah;Kipas Angin Cosmos;4;6275000.00;25100000.00;Small Business
+1046;21/04/2024;Sulawesi Selatan;Elektronik;Smartphone QWE;1;1215000.00;1215000.00;Corporate
+1047;08/05/2024;Bali;Fashion;Tas Kulit Prada;5;4115000.00;20575000.00;Corporate
+1048;04/11/2024;Sumatera Utara;Makanan & Minuman;Coklat Belgia;2;5200000.00;10400000.00;Small Business
+1049;14/10/2024;Sulawesi Selatan;Elektronik;Headphone XYZ;4;3705000.00;14820000.00;Individual
+1050;21/10/2024;Sumatera Utara;Elektronik;Headphone XYZ;2;4520000.00;9040000.00;Corporate
+1051;11/03/2024;Jawa Barat;Makanan & Minuman;Coklat Belgia;5;6970000.00;34850000.00;Small Business
+1052;04/09/2024;Sumatera Utara;Peralatan Rumah;Mesin Cuci Sharp;1;2935000.00;2935000.00;Small Business
+1053;15/06/2024;Jawa Timur;Fashion;Tas Kulit Prada;3;1165000.00;3495000.00;Small Business
+1054;11/01/2024;Jawa Timur;Peralatan Rumah;Set Panci Maxim;1;1310000.00;1310000.00;Corporate
+1055;14/09/2024;Sumatera Utara;Elektronik;Laptop ASUS;4;8145000.00;32580000.00;Individual
+1056;03/09/2024;Jawa Barat;Peralatan Rumah;Kipas Angin Cosmos;2;6350000.00;12700000.00;Corporate
+1057;10/02/2024;Sulawesi Selatan;Makanan & Minuman;Unknown;5;5285000.00;26425000.00;Individual
+1058;13/11/2024;Sumatera Utara;Peralatan Rumah;Mesin Cuci Sharp;1;9345000.00;9345000.00;Small Business
+1060;11/01/2024;DKI Jakarta;Fashion;Sepatu Sneakers Nike;1;5140000.00;5140000.00;Small Business
+1061;17/02/2024;Kalimantan Timur;Elektronik;Smartphone QWE;2;6190000.00;12380000.00;Corporate
+1062;31/08/2024;Bali;Makanan & Minuman;Kopi Arabika DEF;3;8815000.00;26445000.00;Individual
+1063;06/11/2024;Bali;Elektronik;Smartphone QWE;4;5920000.00;23680000.00;Corporate
+1064;18/06/2024;Jawa Barat;Elektronik;Smartphone QWE;5;4440000.00;22200000.00;Individual
+1065;24/08/2024;Kalimantan Timur;Makanan & Minuman;Keripik Singkong;5;4780000.00;23900000.00;Individual
+1066;04/11/2024;Kalimantan Timur;Peralatan Rumah;Mesin Cuci Sharp;2;3035000.00;6070000.00;Corporate
+1067;03/11/2024;Jawa Timur;Elektronik;Smartphone QWE;4;6705000.00;26820000.00;Small Business
+1069;15/12/2024;Bali;Fashion;Gaun Pesta Glam;2;90000.00;180000.00;Individual
+1070;10/07/2024;DKI Jakarta;Fashion;Kemeja Formal ZZZ;5;4345000.00;21725000.00;Small Business
+1071;01/08/2024;Bali;Fashion;Sepatu Sneakers Nike;5;1455000.00;7275000.00;Corporate
+1072;10/02/2024;Bali;Peralatan Rumah;Blender Philips;1;3790000.00;3790000.00;Small Business
+1068;13/04/2024;Bali;Makanan & Minuman;Coklat Belgia;4;2355000.00;9420000.00;Corporate
+1073;28/10/2024;Sumatera Utara;Makanan & Minuman;Keripik Singkong;2;1600000.00;3200000.00;Small Business
+1074;01/07/2024;DKI Jakarta;Elektronik;Laptop ASUS;4;9885000.00;39540000.00;Individual
+1075;13/08/2024;Unknown;Fashion;Gaun Pesta Glam;2;4085000.00;8170000.00;Corporate
+1076;21/11/2024;Kalimantan Timur;Fashion;Sepatu Sneakers Nike;2;6580000.00;13160000.00;Individual
+1077;07/04/2024;Jawa Barat;Makanan & Minuman;Kopi Arabika DEF;1;6915000.00;6915000.00;Corporate
+1078;05/08/2024;Sumatera Utara;Fashion;Jaket Kulit ABC;4;3650000.00;14600000.00;Corporate
+1079;11/06/2024;Sumatera Utara;Elektronik;Kamera Canon;4;345000.00;1380000.00;Individual
+1080;01/07/2024;Jawa Timur;Makanan & Minuman;Teh Hijau Jepang;1;50000.00;50000.00;Individual
+1081;29/06/2024;Bali;Elektronik;Smartphone QWE;4;1475000.00;5900000.00;Small Business
+1082;29/03/2024;DKI Jakarta;Elektronik;Tablet Samsung;4;4560000.00;18240000.00;Corporate
+1083;22/12/2024;Kalimantan Timur;Elektronik;Headphone XYZ;2;935000.00;1870000.00;Small Business
+1084;13/07/2024;Jawa Timur;Makanan & Minuman;Teh Hijau Jepang;5;4180000.00;20900000.00;Corporate
+1085;27/10/2024;DKI Jakarta;Fashion;Tas Kulit Prada;4;6940000.00;27760000.00;Corporate
+1086;26/12/2024;Kalimantan Timur;Elektronik;Headphone XYZ;4;5010000.00;20040000.00;Small Business
+1087;13/11/2024;Sumatera Utara;Peralatan Rumah;Blender Philips;1;6950000.00;6950000.00;Individual
+1088;04/06/2024;Jawa Timur;Elektronik;Kamera Canon;2;555000.00;1110000.00;Small Business
+1089;06/11/2024;Jawa Barat;Peralatan Rumah;Blender Philips;3;6060000.00;18180000.00;Corporate
+1090;24/05/2024;DKI Jakarta;Fashion;Gaun Pesta Glam;4;2585000.00;10340000.00;Small Business
+1091;06/06/2024;Bali;Elektronik;Headphone XYZ;4;5150000.00;20600000.00;Individual
+1092;22/12/2024;Sulawesi Selatan;Fashion;Kemeja Formal ZZZ;2;4620000.00;9240000.00;Corporate
+1093;15/01/2024;Sumatera Utara;Fashion;Jaket Kulit ABC;4;2440000.00;9760000.00;Corporate
+1094;16/06/2024;Bali;Fashion;Kemeja Formal ZZZ;2;2830000.00;5660000.00;Corporate
+1095;11/12/2024;Bali;Elektronik;Smartphone QWE;5;2735000.00;13675000.00;Individual
+1006;16/01/2024;Sulawesi Selatan;Makanan & Minuman;Keripik Singkong;3;1200000.00;3600000.00;Individual
+1096;29/01/2024;DKI Jakarta;Fashion;Jaket Kulit ABC;4;1225000.00;4900000.00;Small Business
+1097;25/10/2024;DKI Jakarta;Elektronik;Headphone XYZ;1;9425000.00;9425000.00;Corporate
+1098;25/11/2024;Kalimantan Timur;Makanan & Minuman;Teh Hijau Jepang;2;3070000.00;6140000.00;Individual
+1099;18/03/2024;Kalimantan Timur;Makanan & Minuman;Coklat Belgia;5;1175000.00;5875000.00;Corporate
+1100;19/11/2024;Sulawesi Selatan;Peralatan Rumah;Kipas Angin Cosmos;1;4715000.00;4715000.00;Individual
+1101;26/02/2024;Sulawesi Selatan;Fashion;Sepatu Sneakers Nike;5;9205000.00;46025000.00;Corporate
+1102;17/09/2024;Bali;Fashion;Sepatu Sneakers Nike;3;5690000.00;17070000.00;Individual
+1104;29/04/2024;Jawa Barat;Peralatan Rumah;Blender Philips;2;4290000.00;8580000.00;Corporate
+1105;12/12/2024;Kalimantan Timur;Elektronik;Laptop ASUS;4;4425000.00;17700000.00;Individual
+1106;20/11/2024;Sumatera Utara;Peralatan Rumah;Vacuum Cleaner LG;4;4800000.00;19200000.00;Small Business
+1107;07/01/2024;Jawa Timur;Fashion;Unknown;4;5630000.00;22520000.00;Corporate
+1108;23/12/2024;Kalimantan Timur;Fashion;Kemeja Formal ZZZ;2;7265000.00;14530000.00;Corporate
+1109;12/11/2024;Kalimantan Timur;Fashion;Kemeja Formal ZZZ;4;4855000.00;19420000.00;Individual
+1110;01/01/2024;DKI Jakarta;Makanan & Minuman;Coklat Belgia;1;140000.00;140000.00;Corporate
+1111;17/11/2024;Kalimantan Timur;Fashion;Tas Kulit Prada;4;9855000.00;39420000.00;Corporate
+1112;07/09/2024;Jawa Timur;Fashion;Tas Kulit Prada;4;3400000.00;13600000.00;Individual
+1113;20/02/2024;Bali;Peralatan Rumah;Vacuum Cleaner LG;3;4225000.00;12675000.00;Unknown
+1114;18/12/2024;Bali;Fashion;Kemeja Formal ZZZ;2;5630000.00;11260000.00;Individual
+1115;27/05/2024;Kalimantan Timur;Fashion;Tas Kulit Prada;3;7775000.00;23325000.00;Corporate
+1116;09/10/2024;Sulawesi Selatan;Peralatan Rumah;Mesin Cuci Sharp;2;9050000.00;18100000.00;Small Business
+1117;10/12/2024;Kalimantan Timur;Fashion;Gaun Pesta Glam;1;5550000.00;5550000.00;Individual
+1118;12/12/2024;Sumatera Utara;Makanan & Minuman;Coklat Belgia;2;8740000.00;17480000.00;Small Business
+1119;29/09/2024;Sulawesi Selatan;Fashion;Gaun Pesta Glam;5;5560000.00;27800000.00;Small Business
+1120;07/11/2024;Kalimantan Timur;Fashion;Jaket Kulit ABC;2;6430000.00;12860000.00;Individual
+1121;01/11/2024;DKI Jakarta;Elektronik;Kamera Canon;3;7445000.00;22335000.00;Corporate
+1122;25/06/2024;Jawa Timur;Fashion;Jaket Kulit ABC;2;5815000.00;11630000.00;Small Business
+1123;16/09/2024;DKI Jakarta;Fashion;Tas Kulit Prada;3;305000.00;915000.00;Corporate
+1124;24/05/2024;Jawa Timur;Peralatan Rumah;Blender Philips;5;1845000.00;9225000.00;Individual
+1125;16/02/2024;Jawa Timur;Elektronik;Unknown;5;4715000.00;23575000.00;Individual
+1126;21/11/2024;Bali;Peralatan Rumah;Kipas Angin Cosmos;2;1100000.00;2200000.00;Unknown
+1127;30/01/2024;Jawa Barat;Fashion;Gaun Pesta Glam;3;1250000.00;3750000.00;Individual
+1128;14/02/2024;Sulawesi Selatan;Fashion;Jaket Kulit ABC;1;380000.00;380000.00;Corporate
+1129;08/05/2024;Jawa Timur;Elektronik;Smartphone QWE;2;1215000.00;2430000.00;Small Business
+1130;04/07/2024;Jawa Timur;Peralatan Rumah;Kipas Angin Cosmos;4;9895000.00;39580000.00;Corporate
+1131;22/06/2024;Jawa Barat;Peralatan Rumah;Set Panci Maxim;5;1795000.00;8975000.00;Corporate
+1132;06/03/2024;Sumatera Utara;Makanan & Minuman;Teh Hijau Jepang;3;7110000.00;21330000.00;Individual
+1133;26/07/2024;Unknown;Fashion;Jaket Kulit ABC;4;8845000.00;35380000.00;Individual
+1134;27/02/2024;Sumatera Utara;Peralatan Rumah;Vacuum Cleaner LG;4;5545000.00;22180000.00;Small Business
+1135;25/11/2024;Kalimantan Timur;Peralatan Rumah;Mesin Cuci Sharp;3;2750000.00;8250000.00;Small Business
+1138;05/06/2024;Bali;Elektronik;Kamera Canon;1;3105000.00;3105000.00;Corporate
+1139;16/12/2024;Jawa Barat;Makanan & Minuman;Keripik Singkong;1;5505000.00;5505000.00;Corporate
+1140;29/08/2024;Jawa Timur;Makanan & Minuman;Teh Hijau Jepang;4;3100000.00;12400000.00;Small Business
+1141;22/09/2024;Jawa Timur;Fashion;Sepatu Sneakers Nike;3;8850000.00;26550000.00;Small Business
+1142;28/02/2024;Bali;Elektronik;Laptop ASUS;5;7065000.00;35325000.00;Individual
+1136;01/02/2024;Bali;Fashion;Tas Kulit Prada;1;7470000.00;7470000.00;Corporate
+1137;05/08/2024;DKI Jakarta;Fashion;Jaket Kulit ABC;2;9050000.00;18100000.00;Individual
+1153;19/12/2024;Sumatera Utara;Elektronik;Laptop ASUS;3;2940000.00;8820000.00;Small Business
+1154;29/09/2024;Sulawesi Selatan;Peralatan Rumah;Blender Philips;3;6385000.00;19155000.00;Corporate
+1155;21/02/2024;DKI Jakarta;Peralatan Rumah;Vacuum Cleaner LG;3;8600000.00;25800000.00;Corporate
+1156;27/08/2024;Sumatera Utara;Peralatan Rumah;Mesin Cuci Sharp;4;3320000.00;13280000.00;Corporate
+1157;25/01/2024;Jawa Barat;Makanan & Minuman;Kopi Arabika DEF;4;50000.00;200000.00;Corporate
+1158;10/01/2024;Jawa Barat;Makanan & Minuman;Kopi Arabika DEF;5;3735000.00;18675000.00;Corporate
+1159;15/03/2024;Sulawesi Selatan;Makanan & Minuman;Coklat Belgia;1;8395000.00;8395000.00;Individual
+1160;01/01/2024;Jawa Timur;Peralatan Rumah;Blender Philips;2;4865000.00;9730000.00;Individual
+1161;30/11/2024;Jawa Barat;Makanan & Minuman;Teh Hijau Jepang;5;1840000.00;9200000.00;Small Business
+1162;03/06/2024;Sulawesi Selatan;Fashion;Sepatu Sneakers Nike;5;7410000.00;37050000.00;Corporate
+1163;10/03/2024;DKI Jakarta;Elektronik;Laptop ASUS;1;5395000.00;5395000.00;Individual
+1164;04/05/2024;Sulawesi Selatan;Makanan & Minuman;Kopi Arabika DEF;5;1185000.00;5925000.00;Individual
+1165;20/01/2024;Kalimantan Timur;Elektronik;Headphone XYZ;4;5800000.00;23200000.00;Individual
+1166;27/10/2024;Sumatera Utara;Makanan & Minuman;Coklat Belgia;1;9450000.00;9450000.00;Corporate
+1167;23/12/2024;Jawa Barat;Elektronik;Tablet Samsung;5;3380000.00;16900000.00;Corporate
+1168;26/02/2024;Jawa Barat;Elektronik;Kamera Canon;4;1170000.00;4680000.00;Small Business
+1169;05/05/2024;Sulawesi Selatan;Elektronik;Tablet Samsung;1;545000.00;545000.00;Corporate
+1170;16/08/2024;Jawa Barat;Elektronik;Laptop ASUS;4;725000.00;2900000.00;Corporate
+1171;09/03/2024;Bali;Peralatan Rumah;Set Panci Maxim;4;4470000.00;17880000.00;Small Business
+1199;22/03/2024;DKI Jakarta;Peralatan Rumah;Kipas Angin Cosmos;5;8400000.00;42000000.00;Small Business
+1007;30/03/2024;Bali;Fashion;Jaket Kulit ABC;4;6125000.00;24500000.00;Corporate
+1008;13/12/2024;Sulawesi Selatan;Elektronik;Smartphone QWE;2;115000.00;230000.00;Individual
+1009;31/10/2024;Jawa Timur;Makanan & Minuman;Teh Hijau Jepang;5;3380000.00;16900000.00;Unknown
+1010;23/06/2024;Kalimantan Timur;Elektronik;Tablet Samsung;2;3585000.00;7170000.00;Small Business
+1011;26/07/2024;Bali;Fashion;Kemeja Formal ZZZ;5;9685000.00;48425000.00;Corporate
+1012;30/09/2024;Jawa Barat;Makanan & Minuman;Teh Hijau Jepang;2;3720000.00;7440000.00;Small Business
+1013;06/04/2024;DKI Jakarta;Peralatan Rumah;Vacuum Cleaner LG;3;9045000.00;27135000.00;Small Business
+1014;06/10/2024;DKI Jakarta;Makanan & Minuman;Keripik Singkong;1;9905000.00;9905000.00;Small Business
+1015;03/02/2024;Jawa Timur;Elektronik;Laptop ASUS;2;9935000.00;19870000.00;Individual
+1016;29/06/2024;Bali;Peralatan Rumah;Kipas Angin Cosmos;1;2095000.00;2095000.00;Small Business
+1017;24/04/2024;Sumatera Utara;Fashion;Tas Kulit Prada;3;5330000.00;15990000.00;Small Business
+1018;10/07/2024;Sumatera Utara;Fashion;Sepatu Sneakers Nike;5;7740000.00;38700000.00;Individual
+1019;27/10/2024;Sumatera Utara;Makanan & Minuman;Kopi Arabika DEF;1;6520000.00;6520000.00;Individual
+1020;17/12/2024;DKI Jakarta;Makanan & Minuman;Keripik Singkong;5;9075000.00;45375000.00;Small Business
+1021;02/09/2024;Sulawesi Selatan;Elektronik;Laptop ASUS;3;9745000.00;29235000.00;Corporate
+1022;06/03/2024;Kalimantan Timur;Elektronik;Smartphone QWE;3;6645000.00;19935000.00;Small Business
+1023;03/12/2024;Sulawesi Selatan;Elektronik;Tablet Samsung;5;1825000.00;9125000.00;Individual
+1024;23/11/2024;Unknown;Elektronik;Tablet Samsung;4;4955000.00;19820000.00;Individual
+1200;15/09/2024;Bali;Fashion;Tas Kulit Prada;5;130000.00;650000.00;Corporate
+1041;09/03/2024;Kalimantan Timur;Elektronik;Headphone XYZ;1;4275000.00;4275000.00;Small Business
+1003;13/02/2024;Jawa Timur;Peralatan Rumah;Blender Philips;3;8135000.00;24405000.00;Corporate
+1004;11/01/2024;Jawa Timur;Peralatan Rumah;Blender Philips;1;6260000.00;6260000.00;Individual
+1005;30/11/2024;DKI Jakarta;Makanan & Minuman;Teh Hijau Jepang;4;7695000.00;30780000.00;Corporate
+1143;30/05/2024;Sulawesi Selatan;Peralatan Rumah;Mesin Cuci Sharp;2;3380000.00;6760000.00;Corporate
+1144;27/03/2024;Sulawesi Selatan;Elektronik;Headphone XYZ;5;960000.00;4800000.00;Small Business
+1145;18/06/2024;DKI Jakarta;Elektronik;Kamera Canon;5;2435000.00;12175000.00;Small Business
+1146;04/06/2024;Sumatera Utara;Elektronik;Smartphone QWE;4;5890000.00;23560000.00;Individual
+1147;30/01/2024;Kalimantan Timur;Peralatan Rumah;Kipas Angin Cosmos;4;775000.00;3100000.00;Individual
+1148;10/09/2024;Jawa Timur;Fashion;Jaket Kulit ABC;4;6890000.00;27560000.00;Unknown
+1149;30/06/2024;Kalimantan Timur;Peralatan Rumah;Kipas Angin Cosmos;1;7630000.00;7630000.00;Individual
+1150;30/09/2024;DKI Jakarta;Peralatan Rumah;Kipas Angin Cosmos;4;8130000.00;32520000.00;Corporate
+1151;04/05/2024;DKI Jakarta;Makanan & Minuman;Coklat Belgia;5;5135000.00;25675000.00;Small Business
+1152;13/04/2024;Jawa Barat;Makanan & Minuman;Keripik Singkong;2;230000.00;460000.00;Small Business
+1025;13/08/2024;Kalimantan Timur;Peralatan Rumah;Mesin Cuci Sharp;1;8775000.00;8775000.00;Corporate
+1026;26/06/2024;Bali;Fashion;Jaket Kulit ABC;1;9385000.00;9385000.00;Individual
+1027;25/07/2024;Sumatera Utara;Elektronik;Kamera Canon;1;9035000.00;9035000.00;Corporate
+1039;27/10/2024;Bali;Elektronik;Headphone XYZ;3;70000.00;210000.00;Individual
+1172;31/08/2024;Bali;Makanan & Minuman;Teh Hijau Jepang;1;7390000.00;7390000.00;Individual
+1173;24/11/2024;Sumatera Utara;Peralatan Rumah;Blender Philips;5;4565000.00;22825000.00;Corporate
+1174;10/05/2024;Sumatera Utara;Elektronik;Tablet Samsung;5;4580000.00;22900000.00;Individual
+1175;17/01/2024;Jawa Timur;Elektronik;Kamera Canon;1;3605000.00;3605000.00;Corporate
+1176;10/10/2024;Bali;Fashion;Sepatu Sneakers Nike;1;3410000.00;3410000.00;Individual
+1177;22/02/2024;Jawa Barat;Fashion;Tas Kulit Prada;4;1930000.00;7720000.00;Corporate
+1178;19/12/2024;Sulawesi Selatan;Elektronik;Smartphone QWE;2;3205000.00;6410000.00;Individual
+1179;23/03/2024;DKI Jakarta;Makanan & Minuman;Teh Hijau Jepang;4;4370000.00;17480000.00;Individual
+1180;15/02/2024;DKI Jakarta;Fashion;Sepatu Sneakers Nike;3;1950000.00;5850000.00;Small Business
+1181;01/01/2024;Unknown;Peralatan Rumah;Blender Philips;3;7015000.00;21045000.00;Small Business
+1182;30/10/2024;Sumatera Utara;Elektronik;Smartphone QWE;3;9205000.00;27615000.00;Individual
+1183;25/10/2024;Kalimantan Timur;Peralatan Rumah;Mesin Cuci Sharp;3;8755000.00;26265000.00;Individual
+1184;05/09/2024;Kalimantan Timur;Fashion;Jaket Kulit ABC;4;5930000.00;23720000.00;Small Business
+1186;29/10/2024;Sumatera Utara;Makanan & Minuman;Teh Hijau Jepang;4;4525000.00;18100000.00;Corporate
+1187;10/01/2024;Jawa Barat;Makanan & Minuman;Air Mineral Premium;1;2520000.00;2520000.00;Small Business
+1188;13/12/2024;DKI Jakarta;Fashion;Sepatu Sneakers Nike;2;4385000.00;8770000.00;Small Business
+1189;16/10/2024;Jawa Timur;Elektronik;Tablet Samsung;4;6045000.00;24180000.00;Corporate
+1190;19/11/2024;Sumatera Utara;Makanan & Minuman;Coklat Belgia;2;3900000.00;7800000.00;Corporate
+1191;20/05/2024;DKI Jakarta;Elektronik;Kamera Canon;5;2410000.00;12050000.00;Small Business
+1192;02/03/2024;Jawa Timur;Fashion;Tas Kulit Prada;3;6805000.00;20415000.00;Small Business
+1193;08/03/2024;Unknown;Elektronik;Tablet Samsung;3;3095000.00;9285000.00;Unknown
+1194;22/01/2024;Sumatera Utara;Peralatan Rumah;Vacuum Cleaner LG;3;9280000.00;27840000.00;Small Business
+1195;30/06/2024;Sulawesi Selatan;Fashion;Tas Kulit Prada;3;4610000.00;13830000.00;Corporate
+1196;21/05/2024;DKI Jakarta;Elektronik;Laptop ASUS;4;9005000.00;36020000.00;Individual
+1197;30/03/2024;Bali;Elektronik;Kamera Canon;5;6670000.00;33350000.00;Small Business
+1198;16/08/2024;DKI Jakarta;Fashion;Jaket Kulit ABC;1;4455000.00;4455000.00;Corporate
