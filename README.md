@@ -1,4 +1,4 @@
-# Retail Sales Data Cleaning & Analysis
+# Data Cleaning dan Analisis Penjualan Toko Retail
 
 Proyek ini berisi dataset penjualan retail dan script SQL untuk melakukan data cleaning sebelum digunakan pada analisis lebih lanjut.
 
